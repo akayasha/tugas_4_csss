@@ -1,0 +1,15 @@
+
+
+input[type=text]{
+  padding: 1.5px;
+  margin : 3px;
+  font-size: 20px;
+}
+input[placeholder]{
+  color: gray;
+}
+
+button{
+  color: orange;
+  font-size: 30px;
+}
